@@ -3,3 +3,5 @@
 //= link_tree ../../javascript .js
 //= link_tree ../../../vendor/javascript .js
 //= require bootstrap-sprockets
+//= require jquery
+//= require jquery_ujs
